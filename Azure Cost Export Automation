@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T14:16:12.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.34" etag="9WnSeW0BBNkyQRoXmVGT" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T15:08:13.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.34" etag="KyVsOc2LQNpMVAZgip12" version="15.8.6" type="github">
   <diagram id="zZ9mvbgLsM86QhiCcpnC" name="Page-1">
     <mxGraphModel dx="1038" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,6 +28,11 @@
         <mxCell id="OrC8GUjWKhf3Z3yn-ofp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OrC8GUjWKhf3Z3yn-ofp-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="259" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrC8GUjWKhf3Z3yn-ofp-25" value="Daily runbook schedule" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OrC8GUjWKhf3Z3yn-ofp-20">
+          <mxGeometry x="0.1161" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OrC8GUjWKhf3Z3yn-ofp-12" value="auto-azuf-euw-p-finops-o1" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Automation_Accounts.svg;fillColor=none;" vertex="1" parent="1">
