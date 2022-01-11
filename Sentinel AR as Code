@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T11:13:02.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="tzqsMaHXSKi7ZNjfYEw_" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T12:28:30.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="j7VEwQkl7M3BKYr1duRe" version="16.2.4" type="github">
   <diagram id="8eSCWrIZpMWWivIl_8bd" name="Page-1">
     <mxGraphModel dx="1278" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="zJgJPadnRV283HCcj1Rq-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="360" y="431.5" width="380" height="107" as="geometry" />
-        </mxCell>
-        <mxCell id="zJgJPadnRV283HCcj1Rq-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="360" y="280" width="720" height="120" as="geometry" />
         </mxCell>
         <mxCell id="zJgJPadnRV283HCcj1Rq-1" value="Sentinel As Code Git Repo" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2104/24/social_media_social_media_logo_git-128.png" parent="1" vertex="1">
           <mxGeometry x="135.29000000000002" y="200" width="50" height="50" as="geometry" />
@@ -54,9 +51,6 @@
         <mxCell id="zJgJPadnRV283HCcj1Rq-9" value="ARM Templates" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.json;gradientColor=#DFDEDE" parent="1" vertex="1">
           <mxGeometry x="99.29" y="340" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zJgJPadnRV283HCcj1Rq-11" value="Main Pipeline" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.auth0.com/marketplace/catalog/content/assets/creators/microsoft/azure-pipelines-avatar.png;" parent="1" vertex="1">
-          <mxGeometry x="380" y="312" width="52" height="52" as="geometry" />
-        </mxCell>
         <mxCell id="zJgJPadnRV283HCcj1Rq-12" value="Client 2 Pipeline" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.auth0.com/marketplace/catalog/content/assets/creators/microsoft/azure-pipelines-avatar.png;" parent="1" vertex="1">
           <mxGeometry x="380" y="561" width="52" height="52" as="geometry" />
         </mxCell>
@@ -81,23 +75,35 @@
         <mxCell id="zJgJPadnRV283HCcj1Rq-16" value="Folder Triger" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.flash;" parent="1" vertex="1">
           <mxGeometry x="290" y="583" width="18" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zJgJPadnRV283HCcj1Rq-17" value="Main Package" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" parent="1" vertex="1">
-          <mxGeometry x="490" y="315.49" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="zJgJPadnRV283HCcj1Rq-18" value="Client 1 Packge" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" parent="1" vertex="1">
           <mxGeometry x="490" y="442.95" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zJgJPadnRV283HCcj1Rq-19" value="Client 2 Package" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" parent="1" vertex="1">
           <mxGeometry x="490" y="562.37" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zJgJPadnRV283HCcj1Rq-23" value="GITC Azure Sentinel" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/security/Azure_Sentinel.svg;" parent="1" vertex="1">
-          <mxGeometry x="637" y="296.5" width="56.00000000000001" height="68" as="geometry" />
-        </mxCell>
         <mxCell id="zJgJPadnRV283HCcj1Rq-24" value="Client 1 Azure Sentinel" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/security/Azure_Sentinel.svg;" parent="1" vertex="1">
           <mxGeometry x="636" y="440.87" width="56.00000000000001" height="68" as="geometry" />
         </mxCell>
         <mxCell id="zJgJPadnRV283HCcj1Rq-25" value="Client 2 Azure Sentinel" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/security/Azure_Sentinel.svg;" parent="1" vertex="1">
           <mxGeometry x="637" y="553" width="56.00000000000001" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="zJgJPadnRV283HCcj1Rq-38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://spunknowndesign.files.wordpress.com/2020/11/kontentino_features_social_media_content_client_approvals.png;" parent="1" vertex="1">
+          <mxGeometry x="560" y="454.38" width="46.51" height="40.97" as="geometry" />
+        </mxCell>
+        <mxCell id="zJgJPadnRV283HCcj1Rq-39" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://spunknowndesign.files.wordpress.com/2020/11/kontentino_features_social_media_content_client_approvals.png;" parent="1" vertex="1">
+          <mxGeometry x="560" y="577.52" width="46.51" height="40.97" as="geometry" />
+        </mxCell>
+        <mxCell id="zJgJPadnRV283HCcj1Rq-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="360" y="280" width="720" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zJgJPadnRV283HCcj1Rq-11" value="Main Pipeline" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.auth0.com/marketplace/catalog/content/assets/creators/microsoft/azure-pipelines-avatar.png;" parent="1" vertex="1">
+          <mxGeometry x="380" y="312" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="zJgJPadnRV283HCcj1Rq-17" value="Main Package" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" parent="1" vertex="1">
+          <mxGeometry x="490" y="315.49" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zJgJPadnRV283HCcj1Rq-23" value="GITC Azure Sentinel" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/security/Azure_Sentinel.svg;" parent="1" vertex="1">
+          <mxGeometry x="637" y="296.5" width="56.00000000000001" height="68" as="geometry" />
         </mxCell>
         <mxCell id="zJgJPadnRV283HCcj1Rq-31" value="VWGST Azure Sentinel" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/security/Azure_Sentinel.svg;" parent="1" vertex="1">
           <mxGeometry x="807" y="296" width="56.00000000000001" height="68" as="geometry" />
@@ -114,10 +120,13 @@
         <mxCell id="zJgJPadnRV283HCcj1Rq-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://spunknowndesign.files.wordpress.com/2020/11/kontentino_features_social_media_content_client_approvals.png;" parent="1" vertex="1">
           <mxGeometry x="560" y="317.52" width="46.51" height="40.97" as="geometry" />
         </mxCell>
-        <mxCell id="zJgJPadnRV283HCcj1Rq-38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://spunknowndesign.files.wordpress.com/2020/11/kontentino_features_social_media_content_client_approvals.png;" parent="1" vertex="1">
-          <mxGeometry x="560" y="454.38" width="46.51" height="40.97" as="geometry" />
+        <mxCell id="MKNeMX-5hLWKZswL0VB_-4" value="Client 2 Pipeline" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.auth0.com/marketplace/catalog/content/assets/creators/microsoft/azure-pipelines-avatar.png;" vertex="1" parent="1">
+          <mxGeometry x="380" y="561" width="52" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="zJgJPadnRV283HCcj1Rq-39" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://spunknowndesign.files.wordpress.com/2020/11/kontentino_features_social_media_content_client_approvals.png;" parent="1" vertex="1">
+        <mxCell id="MKNeMX-5hLWKZswL0VB_-5" value="Client 2 Package" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" vertex="1" parent="1">
+          <mxGeometry x="490" y="562.37" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MKNeMX-5hLWKZswL0VB_-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://spunknowndesign.files.wordpress.com/2020/11/kontentino_features_social_media_content_client_approvals.png;" vertex="1" parent="1">
           <mxGeometry x="560" y="577.52" width="46.51" height="40.97" as="geometry" />
         </mxCell>
       </root>
