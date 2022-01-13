@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T15:51:31.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="4pyCNJc6wNg6Xi2h7PGd" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T19:26:10.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="uLCcUwQ4n-atyj62CJXe" version="16.2.6" type="github">
   <diagram id="BfFZ1IgrDTQRf0SJ3uBB" name="Page-1">
     <mxGraphModel dx="1384" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
           <mxGeometry x="500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-39" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.flash;" vertex="1" parent="1">
-          <mxGeometry x="397" y="30" width="18" height="30" as="geometry" />
+          <mxGeometry x="425" y="30" width="18" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;" edge="1" parent="1" source="VqWvkuDyF6hwRgads5Bz-1" target="VqWvkuDyF6hwRgads5Bz-39">
           <mxGeometry relative="1" as="geometry">
@@ -147,8 +147,8 @@
         <mxCell id="VqWvkuDyF6hwRgads5Bz-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VqWvkuDyF6hwRgads5Bz-52" target="VqWvkuDyF6hwRgads5Bz-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VqWvkuDyF6hwRgads5Bz-52" value="2.5&lt;br&gt;Update Sentinel Incident comment with email Sent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="584.9999999999999" width="120" height="60" as="geometry" />
+        <mxCell id="VqWvkuDyF6hwRgads5Bz-52" value="2.5&lt;br&gt;Operation Team Connect with User after waiting for 24hrs and Update incident" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="566" width="130.01" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
