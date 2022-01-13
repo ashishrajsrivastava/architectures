@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T11:01:41.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="TuGjg_gyvAB-kMFMnicb" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T11:09:42.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="DN7_vnapXPP0MkGRZu-D" version="16.2.6" type="github">
   <diagram id="BfFZ1IgrDTQRf0SJ3uBB" name="Page-1">
-    <mxGraphModel dx="1038" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1384" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VqWvkuDyF6hwRgads5Bz-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="718.5" y="410" width="530" height="370" as="geometry" />
+          <mxGeometry x="718.5" y="470" width="530" height="400" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="431" y="30" width="198" height="530" as="geometry" />
+          <mxGeometry x="431" y="30" width="198" height="590" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-7" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="192" y="30" width="160" height="270" as="geometry" />
@@ -19,20 +19,20 @@
         <mxCell id="VqWvkuDyF6hwRgads5Bz-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hbB-L0_1OT1uoQb4G8U5-2" target="VqWvkuDyF6hwRgads5Bz-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hbB-L0_1OT1uoQb4G8U5-2" value="Construct Email Card" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.json;gradientColor=#DFDEDE" parent="1" vertex="1">
+        <mxCell id="hbB-L0_1OT1uoQb4G8U5-2" value="Construct Email Card&lt;br&gt;2.2" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.json;gradientColor=#DFDEDE;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="499.6" y="204.6" width="52.4" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hbB-L0_1OT1uoQb4G8U5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hbB-L0_1OT1uoQb4G8U5-4" target="hbB-L0_1OT1uoQb4G8U5-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hbB-L0_1OT1uoQb4G8U5-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.outlook_user;" parent="1" vertex="1">
-          <mxGeometry x="952" y="290" width="63" height="55" as="geometry" />
+          <mxGeometry x="952" y="325" width="63" height="55" as="geometry" />
         </mxCell>
         <mxCell id="hbB-L0_1OT1uoQb4G8U5-5" value="&lt;b&gt;email-response-processor&lt;/b&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/integration/Logic_Apps.svg;" parent="1" vertex="1">
-          <mxGeometry x="950" y="429.20000000000005" width="67" height="52" as="geometry" />
+          <mxGeometry x="949.5" y="494.6" width="67" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="hbB-L0_1OT1uoQb4G8U5-8" value="Sentinel Incident" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;" parent="1" vertex="1">
-          <mxGeometry x="778" y="700" width="44" height="50" as="geometry" />
+        <mxCell id="hbB-L0_1OT1uoQb4G8U5-8" value="Sentinel Incident&lt;br&gt;4.4" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;" parent="1" vertex="1">
+          <mxGeometry x="777.5" y="765.4" width="44" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VqWvkuDyF6hwRgads5Bz-1" target="hbB-L0_1OT1uoQb4G8U5-1">
           <mxGeometry relative="1" as="geometry" />
@@ -65,28 +65,28 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VqWvkuDyF6hwRgads5Bz-10" value="Evaluate response" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="935.25" y="599.8" width="96.5" height="90" as="geometry" />
+        <mxCell id="VqWvkuDyF6hwRgads5Bz-10" value="Evaluate response&lt;br&gt;4.2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="934.75" y="665.1999999999999" width="96.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VqWvkuDyF6hwRgads5Bz-11" target="hbB-L0_1OT1uoQb4G8U5-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VqWvkuDyF6hwRgads5Bz-11" value="Update Sentinel Incident as Closed with User info" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="614.8" width="120" height="60" as="geometry" />
+        <mxCell id="VqWvkuDyF6hwRgads5Bz-11" value="Update Sentinel Incident as Closed with User info&lt;br&gt;4.3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="739.5" y="680.1999999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VqWvkuDyF6hwRgads5Bz-13" target="VqWvkuDyF6hwRgads5Bz-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VqWvkuDyF6hwRgads5Bz-13" value="Update Sentinel Incident Severity High" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="614.8" width="120" height="60" as="geometry" />
+        <mxCell id="VqWvkuDyF6hwRgads5Bz-13" value="Update Sentinel Incident Severity High&lt;br&gt;4.3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110.5" y="680.1999999999999" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VqWvkuDyF6hwRgads5Bz-19" value="Sentinel Incident" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;" vertex="1" parent="1">
-          <mxGeometry x="1148" y="700" width="44" height="50" as="geometry" />
+        <mxCell id="VqWvkuDyF6hwRgads5Bz-19" value="Sentinel Incident&lt;br&gt;4.4" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;" vertex="1" parent="1">
+          <mxGeometry x="1147.5" y="765.4" width="44" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VqWvkuDyF6hwRgads5Bz-20" target="hbB-L0_1OT1uoQb4G8U5-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VqWvkuDyF6hwRgads5Bz-20" value="Extract Incident details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VqWvkuDyF6hwRgads5Bz-20" value="Extract Incident details&lt;br&gt;2.1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="477.55" y="130" width="96.5" height="42" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VqWvkuDyF6hwRgads5Bz-21" target="VqWvkuDyF6hwRgads5Bz-24">
@@ -103,26 +103,38 @@
         <mxCell id="VqWvkuDyF6hwRgads5Bz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VqWvkuDyF6hwRgads5Bz-21" target="hbB-L0_1OT1uoQb4G8U5-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VqWvkuDyF6hwRgads5Bz-21" value="Send Email to User" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/capsocial-round/500/Outlook-128.png" vertex="1" parent="1">
-          <mxGeometry x="503.5" y="295" width="45" height="45" as="geometry" />
+        <mxCell id="VqWvkuDyF6hwRgads5Bz-21" value="Send Email to User&lt;br&gt;2.3" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/capsocial-round/500/Outlook-128.png" vertex="1" parent="1">
+          <mxGeometry x="503.5" y="330" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="VqWvkuDyF6hwRgads5Bz-22" value="Sentinel Incident" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;" vertex="1" parent="1">
-          <mxGeometry x="503.5" y="481.2" width="44" height="50" as="geometry" />
+        <mxCell id="VqWvkuDyF6hwRgads5Bz-22" value="Sentinel Incident&lt;br&gt;2.5" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;" vertex="1" parent="1">
+          <mxGeometry x="504.5" y="530" width="44" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VqWvkuDyF6hwRgads5Bz-23" target="VqWvkuDyF6hwRgads5Bz-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VqWvkuDyF6hwRgads5Bz-23" value="Update Sentinel Incident comment with email Sent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="465.8" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="VqWvkuDyF6hwRgads5Bz-23" value="Update Sentinel Incident comment with email Sent&lt;br&gt;2.4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465.8" y="429.2" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VqWvkuDyF6hwRgads5Bz-34" target="VqWvkuDyF6hwRgads5Bz-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VqWvkuDyF6hwRgads5Bz-34" value="&lt;span&gt;Extract User Response&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="923.5" y="520" width="120" height="50" as="geometry" />
+        <mxCell id="VqWvkuDyF6hwRgads5Bz-34" value="&lt;span&gt;Extract User Response&lt;br&gt;4.1&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="923" y="585.4" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-39" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.flash;" vertex="1" parent="1">
           <mxGeometry x="380" y="30" width="18" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VqWvkuDyF6hwRgads5Bz-40" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VqWvkuDyF6hwRgads5Bz-41" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405.8" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VqWvkuDyF6hwRgads5Bz-42" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="284.6" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VqWvkuDyF6hwRgads5Bz-43" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="718.5" y="440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
