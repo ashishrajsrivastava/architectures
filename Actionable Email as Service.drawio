@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T10:54:20.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="hIpLTmgUdRr8iQtAUJhA" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T11:01:41.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="TuGjg_gyvAB-kMFMnicb" version="16.2.6" type="github">
   <diagram id="BfFZ1IgrDTQRf0SJ3uBB" name="Page-1">
     <mxGraphModel dx="1038" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -120,6 +120,9 @@
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-34" value="&lt;span&gt;Extract User Response&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="923.5" y="520" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VqWvkuDyF6hwRgads5Bz-39" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.flash;" vertex="1" parent="1">
+          <mxGeometry x="380" y="30" width="18" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
