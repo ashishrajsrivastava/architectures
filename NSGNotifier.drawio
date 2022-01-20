@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T17:11:16.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" version="16.2.7" etag="qnDPD2we0iiU3-wr2Q-0" type="github"><diagram id="b_3Y4n0Fx20K8rA3rYmT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-20T18:26:56.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="umzctrwZj2JJMlsUaT97" version="16.2.7" type="github">
+  <diagram id="b_3Y4n0Fx20K8rA3rYmT" name="Page-1">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GDKoYZEvUpjFV9IZn4DJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GDKoYZEvUpjFV9IZn4DJ-1" target="GDKoYZEvUpjFV9IZn4DJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GDKoYZEvUpjFV9IZn4DJ-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="366" y="240" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GDKoYZEvUpjFV9IZn4DJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GDKoYZEvUpjFV9IZn4DJ-2" target="GDKoYZEvUpjFV9IZn4DJ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GDKoYZEvUpjFV9IZn4DJ-2" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Automation.svg;" vertex="1" parent="1">
+          <mxGeometry x="375" y="50" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GDKoYZEvUpjFV9IZn4DJ-5" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;Owners&quot;:[&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;Email&quot;:&quot;abc@abc.com&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;Email&quot;:&quot;abc@abc.com&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;Email&quot;:&quot;abc@abc.com&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; ],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;SubnetData&quot;:&quot;Base64Binary&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;SubscriptionId&quot;:&quot;00000000000111111888888&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=right;verticalLabelPosition=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="410" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GDKoYZEvUpjFV9IZn4DJ-6" value="Email as Service" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/integration/Logic_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="366" y="550" width="67" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="GDKoYZEvUpjFV9IZn4DJ-10" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;subject&quot;: &quot;Regarding NSGflow log&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;body&quot;: &quot;&amp;lt;h1&amp;gt;Hello&amp;lt;/h1&amp;gt;&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;to&quot;: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;abc@abc.com&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;abc@abc.com&quot;,&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;abc@abc.com&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;attachments&quot;: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;name&quot;: &quot;NSGData.csv&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;contentBytes&quot;: &quot;Base64Binary&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ]&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=right;verticalLabelPosition=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="100" y="320" width="370" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
