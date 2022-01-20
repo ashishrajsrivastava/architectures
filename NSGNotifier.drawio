@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T18:26:56.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="umzctrwZj2JJMlsUaT97" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-20T18:35:52.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="49Ox7BY0xJ7-FwXhPiSN" version="16.2.7" type="github">
   <diagram id="b_3Y4n0Fx20K8rA3rYmT" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="366" y="550" width="67" height="52" as="geometry" />
         </mxCell>
         <mxCell id="GDKoYZEvUpjFV9IZn4DJ-10" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;subject&quot;: &quot;Regarding NSGflow log&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;body&quot;: &quot;&amp;lt;h1&amp;gt;Hello&amp;lt;/h1&amp;gt;&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;to&quot;: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;abc@abc.com&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;abc@abc.com&quot;,&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;abc@abc.com&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;attachments&quot;: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;name&quot;: &quot;NSGData.csv&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;contentBytes&quot;: &quot;Base64Binary&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ]&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=right;verticalLabelPosition=middle;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="100" y="320" width="370" height="150" as="geometry" />
+          <mxGeometry x="100" y="350" width="370" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
