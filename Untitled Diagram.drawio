@@ -1,34 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T13:41:56.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="Vj2VrTX5quz9isGMY7Wa" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-09T13:44:09.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="vCGGng85sQehrDLQn4T9" version="16.4.3" type="github">
   <diagram id="0nB-mQkInaqzwrMWrqVW" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xu5kFU0qP49CC6D2mlyF-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="xu5kFU0qP49CC6D2mlyF-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="283.5" width="240" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="xu5kFU0qP49CC6D2mlyF-1" value="sentinel-test-close-incidents" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/integration/Logic_Apps.svg;" vertex="1" parent="1">
+        <mxCell id="xu5kFU0qP49CC6D2mlyF-1" value="sentinel-test-close-incidents" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/integration/Logic_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="370" width="67" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="xu5kFU0qP49CC6D2mlyF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;" edge="1" parent="1" source="xu5kFU0qP49CC6D2mlyF-2" target="xu5kFU0qP49CC6D2mlyF-4">
+        <mxCell id="xu5kFU0qP49CC6D2mlyF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;" parent="1" source="xu5kFU0qP49CC6D2mlyF-2" target="xu5kFU0qP49CC6D2mlyF-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xu5kFU0qP49CC6D2mlyF-2" value="Extract Incident&lt;br&gt;Where Sevarity = Info&lt;br&gt;Create Time &amp;gt; 30 days&lt;br&gt;Status = Open" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xu5kFU0qP49CC6D2mlyF-2" value="Extract Incident&lt;br&gt;Where Sevarity = Info&lt;br&gt;Create Time &amp;gt; 30 days&lt;br&gt;Status = Open" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="328" y="300" width="151" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xu5kFU0qP49CC6D2mlyF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;" edge="1" parent="1" source="xu5kFU0qP49CC6D2mlyF-3" target="xu5kFU0qP49CC6D2mlyF-2">
+        <mxCell id="xu5kFU0qP49CC6D2mlyF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;" parent="1" source="xu5kFU0qP49CC6D2mlyF-3" target="xu5kFU0qP49CC6D2mlyF-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xu5kFU0qP49CC6D2mlyF-3" value="&lt;pre class=&quot;small&quot; tabindex=&quot;0&quot; style=&quot;box-sizing: inherit ; font-size: 7px ; margin-top: 0px ; margin-bottom: 0px ; padding: 1rem ; outline: none ; overflow-wrap: normal ; border: 1px solid ; overflow: auto ; word-break: normal ; line-height: 1.3571 ; color: rgb(23 , 23 , 23)&quot;&gt;&lt;span style=&quot;box-sizing: inherit ; outline-color: inherit ; font-size: 7px&quot;&gt;&lt;span class=&quot;hljs-attribute&quot; style=&quot;box-sizing: inherit ; outline-color: inherit ; color: rgb(0 , 104 , 129) ; font-size: 7px&quot;&gt;GET Incidents - List&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=7;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.http_protocol;" vertex="1" parent="1">
+        <mxCell id="xu5kFU0qP49CC6D2mlyF-3" value="&lt;pre class=&quot;small&quot; tabindex=&quot;0&quot; style=&quot;box-sizing: inherit ; font-size: 7px ; margin-top: 0px ; margin-bottom: 0px ; padding: 1rem ; outline: none ; overflow-wrap: normal ; border: 1px solid ; overflow: auto ; word-break: normal ; line-height: 1.3571 ; color: rgb(23 , 23 , 23)&quot;&gt;&lt;span style=&quot;box-sizing: inherit ; outline-color: inherit ; font-size: 7px&quot;&gt;&lt;span class=&quot;hljs-attribute&quot; style=&quot;box-sizing: inherit ; outline-color: inherit ; color: rgb(0 , 104 , 129) ; font-size: 7px&quot;&gt;GET Incidents - List&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=7;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.http_protocol;" parent="1" vertex="1">
           <mxGeometry x="364.5" y="120" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="xu5kFU0qP49CC6D2mlyF-4" value="For Each Incident&lt;br&gt;Status = close&lt;br&gt;tag = autoclose" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.loop;fontSize=7;" vertex="1" parent="1">
+        <mxCell id="xu5kFU0qP49CC6D2mlyF-4" value="For Each Incident&lt;br&gt;Status = close&lt;br&gt;tag = autoclose" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.loop;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="345.75" y="440" width="115.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xu5kFU0qP49CC6D2mlyF-9" value="Managed Identity" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Managed_Identities.svg;" vertex="1" parent="1">
+        <mxCell id="xu5kFU0qP49CC6D2mlyF-9" value="Managed Identity" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Managed_Identities.svg;" parent="1" vertex="1">
           <mxGeometry x="330" y="110" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xu5kFU0qP49CC6D2mlyF-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-collection-2027/60/time-passing-128.png;fontSize=7;" vertex="1" parent="1">
+        <mxCell id="xu5kFU0qP49CC6D2mlyF-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-collection-2027/60/time-passing-128.png;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="442.5" y="7" width="38" height="38" as="geometry" />
         </mxCell>
       </root>
