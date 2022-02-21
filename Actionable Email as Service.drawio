@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T12:32:15.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="V6_xRYVPYZOksunkQD22" version="16.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T15:34:15.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="FP0l_ruZTgKNLBngSzKQ" version="16.5.6" type="github">
   <diagram id="BfFZ1IgrDTQRf0SJ3uBB" name="Page-1">
     <mxGraphModel dx="1038" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VqWvkuDyF6hwRgads5Bz-70" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="520" width="220" height="460" as="geometry" />
+          <mxGeometry x="1440" y="520" width="520" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="750" width="250" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1447" y="750" width="250" height="224" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="570" y="-10" width="770" height="1170" as="geometry" />
@@ -20,13 +26,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hbB-L0_1OT1uoQb4G8U5-2" value="2.2&lt;br&gt;Construct Email Card" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.json;gradientColor=#DFDEDE;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="857.3" y="204.6" width="52.4" height="50" as="geometry" />
+          <mxGeometry x="854.4499999999999" y="390" width="52.4" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hbB-L0_1OT1uoQb4G8U5-4" target="VqWvkuDyF6hwRgads5Bz-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hbB-L0_1OT1uoQb4G8U5-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.outlook_user;" parent="1" vertex="1">
-          <mxGeometry x="852.2" y="470" width="63" height="50" as="geometry" />
+          <mxGeometry x="852.43" y="591" width="63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hbB-L0_1OT1uoQb4G8U5-8" value="Sentinel Incident" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;" parent="1" vertex="1">
           <mxGeometry x="659.3800000000001" y="948.4000000000001" width="45.76" height="52" as="geometry" />
@@ -74,7 +80,7 @@
         <mxCell id="VqWvkuDyF6hwRgads5Bz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VqWvkuDyF6hwRgads5Bz-13" target="VqWvkuDyF6hwRgads5Bz-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bTN6-VGnqZ8saM7nNkKD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VqWvkuDyF6hwRgads5Bz-13" target="VqWvkuDyF6hwRgads5Bz-52">
+        <mxCell id="bTN6-VGnqZ8saM7nNkKD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VqWvkuDyF6hwRgads5Bz-13" target="VqWvkuDyF6hwRgads5Bz-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-13" value="2.7&lt;br&gt;Update Sentinel Incident Severity High" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -83,11 +89,13 @@
         <mxCell id="VqWvkuDyF6hwRgads5Bz-19" value="Sentinel Incident" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;" parent="1" vertex="1">
           <mxGeometry x="1088.93" y="945.6199999999999" width="45.76" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="VqWvkuDyF6hwRgads5Bz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VqWvkuDyF6hwRgads5Bz-20" target="hbB-L0_1OT1uoQb4G8U5-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VqWvkuDyF6hwRgads5Bz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VqWvkuDyF6hwRgads5Bz-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="884" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-20" value="2.1&lt;br&gt;Extract Incident details" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="835.25" y="130" width="96.5" height="42" as="geometry" />
+          <mxGeometry x="835.68" y="100.8" width="96.5" height="42" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VqWvkuDyF6hwRgads5Bz-21" target="hbB-L0_1OT1uoQb4G8U5-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -96,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-21" value="2.3&lt;br&gt;Send Email to User" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/capsocial-round/500/Outlook-128.png" parent="1" vertex="1">
-          <mxGeometry x="861.2" y="330" width="45" height="45" as="geometry" />
+          <mxGeometry x="858.15" y="490" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-22" value="Sentinel Incident" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;" parent="1" vertex="1">
           <mxGeometry x="1193" y="326.89" width="45.77" height="52" as="geometry" />
@@ -111,7 +119,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-34" value="&lt;span&gt;2.5&lt;br&gt;Extract User Response&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="823.7" y="741" width="120" height="50" as="geometry" />
+          <mxGeometry x="823.5" y="776.42" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-40" value="1" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="162" width="60" height="30" as="geometry" />
@@ -150,18 +158,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-47" value="2.4&lt;br&gt;User replied?" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="830.25" y="569" width="106.5" height="80" as="geometry" />
+          <mxGeometry x="830.25" y="654" width="106.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-51" value="Sentinel Incident" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;" parent="1" vertex="1">
           <mxGeometry x="1523.55" y="776.4200000000001" width="55.25" height="62.78" as="geometry" />
         </mxCell>
-        <mxCell id="VqWvkuDyF6hwRgads5Bz-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VqWvkuDyF6hwRgads5Bz-52" target="VqWvkuDyF6hwRgads5Bz-51" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-52" value="3.1&lt;br&gt;Operation Team Connect with User and Update incident with investigation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1486.1699999999998" y="649" width="130.01" height="90" as="geometry" />
+          <mxGeometry x="1599.9999999999998" y="644" width="130.01" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="VqWvkuDyF6hwRgads5Bz-59" value="email sent" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Tag.svg;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="VqWvkuDyF6hwRgads5Bz-59" value="EmailSent" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Tag.svg;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="1232" y="427" width="43" height="43" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-60" value="UserApproved" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Tag.svg;labelBackgroundColor=default;" parent="1" vertex="1">
@@ -174,10 +179,10 @@
           <mxGeometry x="1160" y="424" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-65" value="Active Status" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.exchange_active_sync;fillColor=#2072B8;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1492.7599999999998" y="887.81" width="49" height="49" as="geometry" />
+          <mxGeometry x="1459.9999999999998" y="887.81" width="49" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VqWvkuDyF6hwRgads5Bz-66" value="email sent" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Tag.svg;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1566.5899999999997" y="893.8100000000002" width="43" height="43" as="geometry" />
+        <mxCell id="VqWvkuDyF6hwRgads5Bz-66" value="EmailSent" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Tag.svg;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1535.7999999999997" y="893.8100000000002" width="43" height="43" as="geometry" />
         </mxCell>
         <mxCell id="VqWvkuDyF6hwRgads5Bz-67" value="Closed" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Checkmark-128.png" parent="1" vertex="1">
           <mxGeometry x="617" y="1048.62" width="42.38" height="42.38" as="geometry" />
@@ -194,14 +199,14 @@
         <mxCell id="VqWvkuDyF6hwRgads5Bz-72" value="3" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="1440" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VqWvkuDyF6hwRgads5Bz-82" value="email sent" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Tag.svg;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="VqWvkuDyF6hwRgads5Bz-82" value="EmailSent" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Tag.svg;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="1086.9999999999998" y="1045" width="43" height="43" as="geometry" />
         </mxCell>
         <mxCell id="g2RrGQ3KNIrdNZsYyKHY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="g2RrGQ3KNIrdNZsYyKHY-1" target="g2RrGQ3KNIrdNZsYyKHY-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g2RrGQ3KNIrdNZsYyKHY-1" value="24 hours wait" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Clock-128.png" parent="1" vertex="1">
-          <mxGeometry x="1029.43" y="591" width="38" height="38" as="geometry" />
+          <mxGeometry x="1029.43" y="631" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="g2RrGQ3KNIrdNZsYyKHY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="g2RrGQ3KNIrdNZsYyKHY-5" target="VqWvkuDyF6hwRgads5Bz-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -222,26 +227,89 @@
         <mxCell id="g2RrGQ3KNIrdNZsYyKHY-5" value="2.5&lt;br&gt;User replied?" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="995.18" y="726" width="106.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HN5tS_IjWbmfEseg1zGJ-2" value="email sent" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Tag.svg;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="HN5tS_IjWbmfEseg1zGJ-2" value="EmailSent" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Tag.svg;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="770" y="1048" width="43" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="bTN6-VGnqZ8saM7nNkKD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bTN6-VGnqZ8saM7nNkKD-7" target="VqWvkuDyF6hwRgads5Bz-52">
+        <mxCell id="bTN6-VGnqZ8saM7nNkKD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bTN6-VGnqZ8saM7nNkKD-7" target="VqWvkuDyF6hwRgads5Bz-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bTN6-VGnqZ8saM7nNkKD-7" value="2.6&lt;br&gt;Update Sentinel Incident tag with no response" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bTN6-VGnqZ8saM7nNkKD-7" value="2.6&lt;br&gt;Update Sentinel Incident tag with no response" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1155.88" y="591" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bTN6-VGnqZ8saM7nNkKD-8" value="Sentinel Incident" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;" vertex="1" parent="1">
+        <mxCell id="bTN6-VGnqZ8saM7nNkKD-8" value="Sentinel Incident" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;" parent="1" vertex="1">
           <mxGeometry x="1192.88" y="676.1999999999998" width="45.76" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="bTN6-VGnqZ8saM7nNkKD-9" value="NoResponse" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Tag.svg;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="bTN6-VGnqZ8saM7nNkKD-9" value="NoResponse" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Tag.svg;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="1260.88" y="775.5799999999999" width="43" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="bTN6-VGnqZ8saM7nNkKD-10" value="Active" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.exchange_active_sync;fillColor=#2072B8;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="bTN6-VGnqZ8saM7nNkKD-10" value="Active" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.exchange_active_sync;fillColor=#2072B8;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="1127.88" y="769.5799999999999" width="49" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="bTN6-VGnqZ8saM7nNkKD-11" value="email sent" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Tag.svg;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="bTN6-VGnqZ8saM7nNkKD-11" value="EmailSent" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Tag.svg;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="1190.9499999999998" y="775.5799999999999" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_lwXYgQWzJQ0OHH2Di9e-1" target="_lwXYgQWzJQ0OHH2Di9e-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-1" value="Get entity details from AAD API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="823.5" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_lwXYgQWzJQ0OHH2Di9e-3" target="hbB-L0_1OT1uoQb4G8U5-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="884" y="330" />
+              <mxPoint x="884" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-8" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_lwXYgQWzJQ0OHH2Di9e-7">
+          <mxGeometry x="0.5002" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_lwXYgQWzJQ0OHH2Di9e-3" target="_lwXYgQWzJQ0OHH2Di9e-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-16" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_lwXYgQWzJQ0OHH2Di9e-15">
+          <mxGeometry x="-0.2426" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-3" value="Email Is Null" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="843.9300000000001" y="269.6" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-9" value="Sentinel Incident" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;" vertex="1" parent="1">
+          <mxGeometry x="638" y="440" width="45.77" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-10" value="EmailNotFound" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Tag.svg;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="677" y="540.11" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-11" value="Active" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.exchange_active_sync;fillColor=#2072B8;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="605" y="537.11" width="49" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_lwXYgQWzJQ0OHH2Di9e-14" target="_lwXYgQWzJQ0OHH2Di9e-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-14" value="Update Sentinel Incident with EmailNotFound Tag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="279.6" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-21" value="Sentinel Incident" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;" vertex="1" parent="1">
+          <mxGeometry x="1803.07" y="761.42" width="55.95" height="63.58" as="geometry" />
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-22" value="NoResponse" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Tag.svg;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1873" y="878.81" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-23" value="Active" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.exchange_active_sync;fillColor=#2072B8;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="872.81" width="49" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-24" value="EmailSent" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Tag.svg;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1803.0699999999997" y="878.81" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-25" value="UserRejected" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Tag.svg;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="893.81" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="_lwXYgQWzJQ0OHH2Di9e-26" value="High" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/gnomeicontheme/32x32/emblems/stock_mail-priority-high.png" vertex="1" parent="1">
+          <mxGeometry x="1584.18" y="785.4200000000001" width="32" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
