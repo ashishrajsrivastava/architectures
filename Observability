@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T15:14:17.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="SXJj8U1IclvCd0eGc7in" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T15:17:16.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="aImfwFvq84xBzrcWFnj0" version="17.4.0" type="github">
   <diagram id="M4TXUGhmAaPzuKRS3PoM" name="Page-1">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2130" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="200" width="440" height="280" as="geometry" />
         </mxCell>
         <mxCell id="d43XtjHfx9DnsQhwq75V-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="70" width="70" height="70" as="geometry" />
+          <mxGeometry x="1050" y="80" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="87shqyW-CKa1M2hAryHk-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d43XtjHfx9DnsQhwq75V-2" target="87shqyW-CKa1M2hAryHk-27">
           <mxGeometry relative="1" as="geometry" />
