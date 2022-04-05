@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T15:17:16.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="aImfwFvq84xBzrcWFnj0" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T15:35:08.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="eq2aW-7Pnf5_iaUm1w_M" version="17.4.0" type="github">
   <diagram id="M4TXUGhmAaPzuKRS3PoM" name="Page-1">
-    <mxGraphModel dx="2130" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,9 @@
         </mxCell>
         <mxCell id="87shqyW-CKa1M2hAryHk-39" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/NetworkInterfaceCard.svg;" vertex="1" parent="1">
           <mxGeometry x="729.0000000000001" y="925" width="44" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="87shqyW-CKa1M2hAryHk-40" value="Dashboard" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Dashboard.svg;" vertex="1" parent="1">
+          <mxGeometry x="1020.83" y="270" width="99.17" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
