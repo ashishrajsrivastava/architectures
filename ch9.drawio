@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T18:28:23.902Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="4-y0V2SoY7aH6DNE5c8N" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T18:29:27.736Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="hzOXWHBZDlqUPbRPMQUi" version="23.1.6" type="github">
   <diagram name="Page-1" id="OyZmIJ52pdk-Ufp1vOxf">
     <mxGraphModel dx="1386" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="5gNhcESFQQCYpFETzXQ8-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="1">
           <mxGeometry x="325.5" y="418" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="5gNhcESFQQCYpFETzXQ8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5gNhcESFQQCYpFETzXQ8-14" target="5gNhcESFQQCYpFETzXQ8-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5gNhcESFQQCYpFETzXQ8-14" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.github;gradientColor=#DFDEDE" vertex="1" parent="1">
           <mxGeometry x="160" y="560" width="80" height="80" as="geometry" />
@@ -56,8 +59,17 @@
         <mxCell id="5gNhcESFQQCYpFETzXQ8-17" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2017/10/ansible_logo.png?fit=1800%2C514&amp;ssl=1;" vertex="1" parent="1">
           <mxGeometry x="292.73" y="90" width="140.54" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5gNhcESFQQCYpFETzXQ8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="5gNhcESFQQCYpFETzXQ8-22" target="5gNhcESFQQCYpFETzXQ8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5gNhcESFQQCYpFETzXQ8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5gNhcESFQQCYpFETzXQ8-22" target="5gNhcESFQQCYpFETzXQ8-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5gNhcESFQQCYpFETzXQ8-22" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://th.bing.com/th/id/R.d600045689f6445e68928e225827dfb6?rik=SCjYGuWs6feChA&amp;pid=ImgRaw&amp;r=0;" vertex="1" parent="1">
           <mxGeometry x="320.06" y="560" width="81.89" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5gNhcESFQQCYpFETzXQ8-23" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="490" y="568" width="69" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
